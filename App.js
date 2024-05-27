@@ -32,7 +32,7 @@ export default function App() {
             </View>
           </ImageBackground>
           <View style={styles.header}>
-            <Text style={styles.headerText}>Berkay Çoşkun</Text>
+            <Text style={styles.headerText}>Kartalkanca</Text>
             <Text style={styles.headerDesc}>Yeni şarkım GameWave, YouTube Music'te.</Text>
           </View>
 
